@@ -13,10 +13,10 @@
 
 <h2 align="left">Projects:</h2>
 
-| Project                                                                   | Link                                                                | Report                                                                    | Technologies |
+| Project                                                                   | Link                                                                | Additional Ressources                                                                    | Technologies |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------ |
 | Development of an agent playing the game Hex using Reinforcement Learning | [🔗 Link](https://github.com/Fabiaho/Hex-REIL)                         | [📜 Report](https://github.com/Fabiaho/Hex-REIL/blob/main/term-paper.pdf) |              |
-| Report about Car Registrations in Austria                                 | [🔗 Link](https://github.com/Fabiaho/Car-Registrations-Austria-Report) |                                                                           |              |
+| Report about Car Registrations in Austria                                 | [🔗 Link](https://github.com/Fabiaho/Car-Registrations-Austria-Report) | [📜 Report](https://github.com/Fabiaho/Car-Registrations-Austria-Report/blob/main/report.pdf) |              |
 | Environmental Sound Classification on the ESC-50 dataset                  | [🔗 Link](https://github.com/Fabiaho/ESC50-Classification)             |                                                                           |              |
 | Sudoku Generation from Scratch using Genetic Algorithms                   | [🔗 Link](https://github.com/Fabiaho/Sudoku-Generation-using-GAlib)    |                                                                           |              |
 
