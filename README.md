@@ -13,7 +13,7 @@
 
 <h2 align="left">Projects:</h2>
 
-- <a href=https://github.com/Fabiaho/Hex-REIL">Development of an agent playing the game Hex using Reinforcement Learning</a>: Python, Pytorch, Reinforcement Learning
+- <a href="https://github.com/Fabiaho/Hex-REIL">Development of an agent playing the game Hex using Reinforcement Learning</a>: Python, Pytorch, Reinforcement Learning
 
 - <a href="https://github.com/Fabiaho/Car-Registrations-Austria-Report">Report about Car Registrations in Austria</a>: Data Exploration and Cleaning using Python and Pandas, Analysis of 3 Hypothesis
 
