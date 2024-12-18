@@ -4,7 +4,7 @@
 
 - 🐕 I love dogs!
 
-- 🏎️ Proud member of the **TU Wien formula student racing team** as a Data Scientist and Vehicle Controller Engineer
+- 🏎️ Proud member of the **TU Wien formula student racing team** as the Head of Vehicle Dynamics & Data Analzsis
 
 - 🔭 I am pursuing a master's degree in **AI Engineering**
 
